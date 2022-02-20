@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css?family=Archivo+Black');
+
+body{
+
+    text-align: center;
+
+  width: 250px;
+
+  margin: auto;
+
+  font-family: 'Archivo Black', sans-serif;
+
+  background-color: #ffb3de;
+
+  position: relative;
+
+  top: 100px;
+
+}
+
+table{
+
+  border-width: 1px;
+
+  
+
+}
+
+#reset{
+
+  
+
+    color: rgb(255, 255, 255);
+
+    padding-top: 20px;
+
+    
+
+  }
+
+  #btn {
+
+    font-family: courier;
+
+    font-size: 20px;
+
+    font-weight: 900;
+
+    outline: none;
+
+    background-color: #98777b;
+
+    color: white;
+
+    border-style: solid;
+
+    border-color: #98777b;
+
+    padding: 10px;
+
+    border-radius: 10px;
+
+}
+
+#btn:hover {
+
+    background-color: white;
+
+    border-color: white;
+
+    color: #e095b2;
+
+}
+
+
+
+h1{
+
+  border-bottom: 1px solid rgb(152,119,123);
+
+  font-size: 20px;
+
+}
+
+#message{
+
+  font-size: 15px;
+
+  color: rgb(255, 251, 251);
+
+  padding-bottom: 20px;
+
+}
+
+.box{
+
+  height: 80px;
+
+  width: 80px;
+
+  font-size: 40px;
+
+  text-align: center;
+
+  font-weight: bold;
+
+}
